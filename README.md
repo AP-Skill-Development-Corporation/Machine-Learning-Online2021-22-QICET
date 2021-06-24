@@ -6,3 +6,4 @@ QICET
 ### Markdown cheat-sheet [Link](https://www.markdownguide.org/cheat-sheet/)
 ### video links:
 * 23/06/2021 [Link](https://transcripts.gotomeeting.com/#/s/e7e8db0980b4b4cccebb4b71f7fc15daf5b28b3bd393fcd14aeb7f5f9e9d47d3)
+* 24/06/2021 [Link](https://transcripts.gotomeeting.com/#/s/0329f6d6d8baab19fba184ed1035b50523be4471ce5063d9e046288c11f97ef1)
